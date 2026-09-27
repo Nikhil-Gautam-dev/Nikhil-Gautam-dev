@@ -283,7 +283,7 @@ infrastructure
 
 ### Find me elsewhere
 
-[GitHub](https://github.com/Nikhil-Gautam-dev) · [Portfolio](https://Nikhil-Gautam-dev.github.io) · [LinkedIn](https://www.linkedin.com/in/nikhil-malhotra-80a344218/)
+[Portfolio](https://Nikhil-Gautam-dev.github.io) · [LinkedIn](https://www.linkedin.com/in/nikhil-malhotra-80a344218/) · [daily.dev](https://daily.dev/nikhil3)
 
 ---
 
