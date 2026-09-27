@@ -15,6 +15,24 @@ Most of my repositories are basically the trail of those questions.
 
 ---
 
+## Table of Contents
+
+- [The journey](#the-journey)
+- [2024 — I started by making things](#making-things)
+- [Then I discovered applications](#discovered-applications)
+- [Then backend became interesting](#backend-became-interesting)
+- [Then I started thinking in real time](#real-time-thinking)
+- [Open Source](#open-source)
+- [Then security became a rabbit hole](#security)
+- [Real-time + Encryption](#realtime-encryption)
+- [Sometimes I just build tools for myself](#developer-tools)
+- [Physics → Software](#physics-to-software)
+- [What I'm interested in now](#current-interests)
+
+---
+
+<a id="the-journey"></a>
+
 ## 🧭 The journey
 
 ```text
@@ -41,6 +59,8 @@ systems & developer tools
 
 ---
 
+<a id="making-things"></a>
+
 ## 🪴 2024 — I started by making things
 
 My first projects were small.
@@ -63,6 +83,8 @@ A few of those early experiments:
 
 ---
 
+<a id="discovered-applications"></a>
+
 ## 🌐 Then I discovered applications
 
 Eventually, small experiments weren't enough.
@@ -84,6 +106,8 @@ The pieces had to communicate correctly.
 → [Connectify Backend](https://github.com/Nikhil-Gautam-dev/connectify-backend-api)
 
 ---
+
+<a id="backend-became-interesting"></a>
 
 ## ⚙️ Then backend became interesting
 
@@ -110,6 +134,8 @@ That's when backend stopped being just another part of the application and becam
 
 ---
 
+<a id="real-time-thinking"></a>
+
 ## 🔄 Then I started thinking in real time
 
 Request → response was only the beginning.
@@ -124,6 +150,8 @@ Projects like **SketchSync** and **Encora** came out of that curiosity.
 → [Encora](https://github.com/Nikhil-Gautam-dev/encora)
 
 ---
+
+<a id="open-source"></a>
 
 # 🌍 Open Source
 
@@ -156,6 +184,8 @@ I fixed the theme handling so users could change themes without losing their cur
 That's one of the things I like about open source — you don't control the whole codebase, so you have to understand the system before changing it.
 
 ---
+
+<a id="security"></a>
 
 # 🔐 Then security became a rabbit hole
 
@@ -194,6 +224,8 @@ A small application demonstrating what happens when application data is transpar
 
 ---
 
+<a id="realtime-encryption"></a>
+
 # 🔒 Real-time + Encryption
 
 That curiosity also turned into **Encora**.
@@ -214,6 +246,8 @@ It was figuring out how all the pieces fit together.
 → [Encora](https://github.com/Nikhil-Gautam-dev/encora)
 
 ---
+
+<a id="developer-tools"></a>
 
 # 🖥️ Sometimes I just build tools for myself
 
@@ -237,6 +271,8 @@ Very useful.
 
 ---
 
+<a id="physics-to-software"></a>
+
 # 🔬 Physics → Software
 
 Before all of this, there was physics.
@@ -251,6 +287,8 @@ Physics taught me to be curious about what's happening underneath the surface.
 Software gave me another place to apply that curiosity.
 
 ---
+
+<a id="current-interests"></a>
 
 # 🧠 What I'm interested in now
 
